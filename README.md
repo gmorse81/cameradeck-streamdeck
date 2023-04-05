@@ -6,7 +6,7 @@ This plugin adds Stream Deck buttons for easier access to the CameraDeck functio
 
 ## Installation
 
-Download the com.camaradeck.streamDeckPlugin file from the `dist` directory. Open the file on your machine, and it should be installed by the Stream Deck application.
+Download the com.camaradeck.streamDeckPlugin file from the `dist` directory ([or just click here](https://github.com/gmorse81/cameradeck-streamdeck/blob/main/dist/com.cameradeck.streamDeckPlugin?raw=true)). Open the file on your machine, and it should be installed by the Stream Deck application.
 
 ## Future Improvements
 
