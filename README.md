@@ -2,7 +2,7 @@
 
 This is the companion Stream Deck plugin for the Camera Deck application. CameraDeck is a MacOS app that allows you to control your camera (currently only Sony cameras are supported) from your desktop.
 
-This plugin adds Stream Deck buttons for easier access to the CameraDeck functionality
+This plugin adds Stream Deck buttons for easier access to the CameraDeck functionality.
 
 ## Installation
 
