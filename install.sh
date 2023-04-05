@@ -1,0 +1,1 @@
+ rsync -a --delete src/com.cameradeck.sdPlugin/ ~/Library/Application\ Support/com.elgato.StreamDeck/Plugins/com.cameradeck.sdPlugin

@@ -1,0 +1,143 @@
+{
+	"SDKVersion": 2,
+	"Author": "Gary Morse",
+	"CodePath": "app.html",
+	"Description": "Control the Camera Deck app with your Stream Deck using the Camera Deck Stream Deck plugin",
+	"Name": "Camera Deck",
+	"Icon": "assets/icon",
+	"URL": "https://cameradeck.com",
+	"Version": "1.0.0",
+	"Software": {
+		"MinimumVersion": "5.0"
+	},
+	"OS": [
+		{
+			"Platform": "mac",
+			"MinimumVersion": "11.0"
+		}
+	],
+	"Category": "Camera Deck",
+	"CategoryIcon": "assets/categoryIcon",
+	"Actions": [
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "AF ON",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/AfOn/assets/AFON"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the AF ON button on your camera",
+			"UUID": "com.cameradeck.afon.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "C1",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/C1/assets/C1"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the C1 button on your camera",
+			"UUID": "com.cameradeck.c1.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Focus Near",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/FocusClose/assets/focusnear"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the focus near button on your camera",
+			"UUID": "com.cameradeck.focusnear.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Focus Far",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/FocusFar/assets/focusfar"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the Focus Far button on your camera",
+			"UUID": "com.cameradeck.focusfar.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Record",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/Record/assets/record"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the Record button on your camera",
+			"UUID": "com.cameradeck.record.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Shutter",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/Shutter/assets/shutter"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the Shutter button on your camera",
+			"UUID": "com.cameradeck.shutter.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Zoom In",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/ZoomIn/assets/zoomin"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the Zoom In button on your camera",
+			"UUID": "com.cameradeck.zoomin.action"
+		},
+		{
+			"Icon": "assets/actionIcon",
+			"Name": "Zoom Out",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "actions/ZoomOut/assets/zoomout"
+				}
+			],
+			"SupportedInMultiActions": true,
+			"Tooltip": "Press the Zoom Out button on your camera",
+			"UUID": "com.cameradeck.zoomout.action"
+		}
+	]
+}

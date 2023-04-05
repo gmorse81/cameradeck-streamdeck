@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="156.489 178.012 175.107 140.988" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="color-1-0" gradientUnits="userSpaceOnUse" x1="244.316" y1="178.012" x2="244.316" y2="279.364" xlink:href="#color-1"/>
+    <linearGradient id="color-1" bx:pinned="true">
+      <stop style="stop-color: #f12711;" offset="0"/>
+      <stop style="stop-color: #f5af19;" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-0-3" gradientUnits="userSpaceOnUse" x1="171.489" y1="289" x2="171.489" y2="319" xlink:href="#color-0"/>
+    <linearGradient id="color-0" bx:pinned="true">
+      <stop style="stop-color: #8e2de2;" offset="0"/>
+      <stop style="stop-color: #4a00e0;" offset="1"/>
+    </linearGradient>
+    <linearGradient id="color-0-2" gradientUnits="userSpaceOnUse" x1="218.842" y1="289" x2="218.842" y2="319" xlink:href="#color-0"/>
+    <linearGradient id="color-0-1" gradientUnits="userSpaceOnUse" x1="267.666" y1="289" x2="267.666" y2="319" xlink:href="#color-0"/>
+    <linearGradient id="color-0-0" gradientUnits="userSpaceOnUse" x1="315.502" y1="289" x2="315.502" y2="319" xlink:href="#color-0"/>
+  </defs>
+  <rect x="157.035" y="178.012" width="174.561" height="101.352" style="stroke: rgb(0, 0, 0); fill: url(#color-1-0);" stroke="black" stroke-width="4" rx="8.86" ry="8.86"/>
+  <circle style="stroke: rgb(0, 0, 0); stroke-width: 8px; fill: rgb(254, 255, 253);" transform="matrix(0.431034, 0, 0, 0.416554, -20.147495, -23.284441)" cx="616.67" cy="607.988" r="79.803"/>
+  <rect x="289.894" y="187.305" width="28.896" height="17.272" style="stroke: rgb(0, 0, 0); stroke-width: 3px; fill: rgb(251, 251, 251);"/>
+  <rect x="156.489" y="289" width="30" height="30" style="stroke: rgb(0, 0, 0); stroke-width: 3px; fill: url(#color-0-3);"/>
+  <rect x="203.842" y="289" width="30" height="30" style="stroke: rgb(0, 0, 0); stroke-width: 3px; fill: url(#color-0-2);"/>
+  <rect x="252.666" y="289" width="30" height="30" style="stroke: rgb(0, 0, 0); stroke-width: 3px; fill: url(#color-0-1);"/>
+  <rect x="300.502" y="289" width="30" height="30" style="stroke: rgb(0, 0, 0); stroke-width: 3px; fill: url(#color-0-0);"/>
+</svg>
